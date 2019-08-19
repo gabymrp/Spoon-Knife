@@ -19,3 +19,7 @@ p {
 p red {
   color: red;
 }
+
+p this-is-from-octo-branch {
+  color: blue;
+}
